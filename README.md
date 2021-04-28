@@ -1,4 +1,4 @@
-## Hello here 👋
+## Welcome to my world  👋
 ---
 ### About me
 
@@ -9,4 +9,4 @@
 
 [![Xcnte's github stats](https://github-readme-stats.vercel.app/api?username=Xcnte&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-> ***做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊***
+> ***为什么要努力？因为我要做的事有很多，我要去的地方很远，我喜欢的人超完美***
