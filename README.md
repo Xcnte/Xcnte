@@ -1,8 +1,8 @@
-## DeepFuckingValue 👋
+## Hello here 👋
 ---
 ### About me
 
--  `CTFer（学习中）` && `Web开发` && `安卓开发`
+-  `CTFer` && `Web开发` && `安卓开发`
 - QQ：`NzE4MjUxMw==`
 - Team：`X`
 - Blog： https://www.xcnte.com
